@@ -22,7 +22,6 @@ header {
   color: #5e696d;
   font-family: Arial;
   font-size: 14pt;
-  /*letter-spacing: 1px;*/
 }
 
 
@@ -68,13 +67,11 @@ header {
 .login {
   width: 112px;
   height: 16px;
-  /*vertical-align: middle;*/
 }
 
 .password {
   width: 112px;
   height: 16px;
-  /*vertical-align: middle;*/
   margin: 2px;
 }
 
@@ -198,14 +195,6 @@ li:hover, :active {
 }
 
 
-/****************************MAIN****************************/
-
-main {
-  float: left;
-}
-
-
-
 
 
 
@@ -282,7 +271,9 @@ h5 {
 
 /*********MAIN*********/
 
-
+main {
+  float: left;
+}
 
 .goods {
   width: 526px;
