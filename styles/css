@@ -295,8 +295,8 @@ h5 {
 }
 
 .img-goods {
-  width: 139px;
-  height: 129px;
+  width: 138px;
+  height: 127px;
   border: #a7b1b4 solid 2px;
   border-radius: 10px;
   background-color: white;
@@ -341,7 +341,18 @@ h5 {
   margin-top: 6px;
 }
 
+.second-line {
+  text-align: center;
+}
+
 /*****aside-right******/
+
+
+.checkbox {
+  margin-left: 45px;
+  padding-top: 11px;
+  line-height: 25px;
+}
 
 .right {
   width: 183px;
@@ -356,6 +367,7 @@ h5 {
 }
 
 .disks {
+  clear: both;
   margin-left: auto;
   margin-right: auto;
 }
@@ -373,6 +385,12 @@ h5 {
   text-align: center;
   text-decoration: none;
   padding-top: 7px;
+  margin-top: 10px;
+}
+
+.submit-form {
+  text-align: center;
+  margin-top: 7px;
 }
 
 .submit-form input {
@@ -392,6 +410,9 @@ label {
   font-size: 9pt;
 }
 
+/*.check {
+  padding-bottom: 10px;
+}*/
 
 
 /*******LOGOTIPS************/
